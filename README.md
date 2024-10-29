@@ -6,7 +6,7 @@ A collection of classic sorting algorithm implementations, including:
 - Selection Sort
 - Quick Sort (using Lomuto's partition scheme)
 - Shell Sort
-- Cocktail Sort
+- Cocktail Shaker Sort
 
 ## Project Structure
 
@@ -32,6 +32,8 @@ For detailed information about each sorting algorithm:
 - [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
 - [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort)
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
+- [Shell Sort](https://en.wikipedia.org/wiki/Shellsort)
+- [Cocktail Shaker Sort](https://en.wikipedia.org/wiki/Cocktail_shaker_sort)
 
 ## Authors
 - Hassan Ahmed: hassan.ahmed357753@gmail.com
