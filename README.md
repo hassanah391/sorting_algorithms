@@ -5,6 +5,8 @@ A collection of classic sorting algorithm implementations, including:
 - Insertion Sort
 - Selection Sort
 - Quick Sort (using Lomuto's partition scheme)
+- Shell Sort
+- Cocktail Sort
 
 ## Project Structure
 
